@@ -1,0 +1,350 @@
+@media (max-width: 1399.98px) {
+    .right-pic::after {
+        display: none;
+    }
+
+    .servies .owl-next::before {
+        font-size: 18px;
+        height: 45px;
+        width: 45px;
+        top: -20ch;
+        right: -57ch;
+    }
+
+    .servies .owl-prev::before {
+        font-size: 18px;
+        height: 45px;
+        width: 45px;
+        top: -19ch;
+        left: -58ch;
+    }
+
+    .about .right_text::before {
+        display: none;
+    }
+
+    .faq_s::before {
+        display: none;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .Contact .form input {
+        height: 55px;
+        margin: 0px 0px 18px 0px;
+    }
+
+    .Contact .form form {
+        margin-top: 25px;
+    }
+
+    .Contact .form form .Send {
+        min-height: 60px;
+        font-size: 25px;
+    }
+
+    .home_slider .owl-next::before {
+        top: -100px;
+        right: 0;
+    }
+
+    .home_slider .owl-prev::before {
+        top: -100px;
+        left: -95px;
+    }
+
+    .servies .owl-next::before {
+        top: 0ch;
+        right: 0;
+    }
+
+    .servies .owl-prev::before {
+        top: 0;
+        left: 0;
+    }
+
+    .servies .service_card h5 {
+        font-size: 17px;
+        line-height: 24px;
+    }
+
+    .servies .service_card p {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 5px;
+    }
+
+    .servies .service_card a {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .servies .service_card {
+        padding: 10px 10px 10px 15px;
+        min-height: 300px;
+    }
+
+    .right-pic {
+        display: none !important;
+    }
+
+    #hide_ {
+        display: none !important;
+    }
+
+    .faq_s {
+        padding: 86px 0px 45px 0px;
+    }
+
+    .faq_s .faqs_ h4 {
+        font-size: 40px;
+        padding-bottom: 20px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .top-bar {
+        display: none;
+    }
+
+    header .navbar-brand {
+        display: block;
+    }
+
+    header .navbar.navbar-expand-lg {
+        height: auto;
+        padding: 10px 0px 10px 0px;
+    }
+
+    button.navbar-toggler {
+        background: #00ccff;
+    }
+
+    header img {
+        background: #fff;
+        padding: 6px;
+        border-radius: 5px;
+        width: 100px;
+
+    }
+
+    header .nav-link {
+        width: 100%;
+    }
+
+    header .icons {
+        justify-content: center;
+        padding-bottom: 10px;
+    }
+
+    header .nav-link::before {
+        width: 100%;
+    }
+
+    .home_slider .banner_text .text_style_one {
+        max-width: 483px;
+        min-height: 44px;
+        padding-left: 5px;
+        margin: 0px 0px 8px 0px;
+        font-size: 17px;
+        border-bottom: 2px solid #00CCFF;
+    }
+
+    .home_slider .banner_text h3 {
+        font-size: 50px;
+        line-height: 55px;
+    }
+
+    .home_slider .Newpor_radiology {
+        font-size: 17px;
+        line-height: 26px;
+        padding-bottom: 21px;
+        padding-top: 2px;
+        margin: 0px;
+    }
+
+    .cta {
+        gap: 10px;
+        width: 100%;
+        max-width: 176px;
+        min-height: 50px;
+        border: none;
+        font-size: 19px;
+    }
+
+    .about {
+        padding-top: 25px;
+
+    }
+
+    .about .left-pic img {
+        width: 100%;
+    }
+
+    .second_pic {
+        display: none;
+    }
+
+    .about .left-pic .video_icon {
+        top: 1%;
+        right: 2%;
+    }
+
+    .about .right_text {
+        margin-top: 50px;
+    }
+
+    .servies {
+        padding: 50px 0px;
+        margin-top: 10px;
+    }
+
+    .servies .service_card {
+        padding: 20px 20px 20px 20px;
+        min-height: 242px;
+    }
+
+    .team .teem-member {
+        min-height: 622px;
+    }
+
+    .team {
+        padding: 35px 0px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .home_slider .banner_text {
+        padding: 45px 0px 45px 0px;
+    }
+
+    .home_slider .banner_text .text_style_one {
+        min-height: 41px;
+        font-size: 14px;
+    }
+
+    .home_slider .banner_text h3 {
+        font-size: 30px;
+        line-height: 35px;
+        margin: 10px 0px 10px 0px;
+    }
+
+    .home_slider .Newpor_radiology {
+        font-size: 15px;
+        line-height: 23px;
+        padding-bottom: 18px;
+        padding-top: 0px;
+    }
+
+    .home_slider .banner_slide {
+        height: 485px;
+    }
+
+    .home_slider .owl-nav {
+        display: none !important;
+    }
+
+    .about .left-pic::after {
+        left: 0;
+        top: unset;
+        font-size: 30px;
+        -webkit-text-stroke-color: #d5d5d58a;
+        bottom: -12%;
+        transform: unset;
+    }
+
+    .about .left-pic .video_icon {
+        top: 2%;
+        right: unset;
+        height: 70px;
+        width: 70px;
+        left: 4%;
+    }
+
+    .about .right_text .about_us {
+        max-width: 150px;
+        height: 45px;
+        font-size: 18px;
+        margin-bottom: 15px;
+        margin-top: 65px;
+    }
+
+    .about h4 {
+        font-size: 30px;
+        margin-bottom: 7px;
+        margin-top: 24px;
+    }
+
+    .about p {
+        font-size: 17px;
+        line-height: 28px;
+    }
+
+    .about {
+        padding-bottom: 45px;
+    }
+
+    .section_heading {
+        font-size: 35px;
+        margin-bottom: 15px;
+    }
+
+    .servies .heading_text p {
+        font-size: 18px;
+        line-height: 27px;
+        padding-top: 4px;
+        padding-bottom: 23px;
+    }
+
+    .faq_s {
+        padding: 35px 0px 35px 0px;
+    }
+
+    .faq_s .faqs_ h4 {
+        font-size: 30px;
+        padding-bottom: 17px;
+    }
+
+    .faq_s .accordion-button:not(.collapsed) {
+        padding: 14px;
+        font-size: 20px !important;
+
+    }
+    .faq_s .accordion-body {
+        padding: 11px;
+    }
+    .faq_s .accordion-button.collapsed, .accordion-button {
+        font-size: 20px !important;
+        line-height: 25px !important;
+        border-radius: 8px;
+    }
+    .section_heading {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .team p {
+        font-size: 18px;
+        line-height: 27px;
+        padding-top: 5px;
+        padding-bottom: 30px;
+    }
+    .team .teem-member {
+        min-height: auto;
+    }
+    .owl-theme .owl-nav {
+        margin-top: 10px;
+        display: none !important;
+    }
+    .Contact .form {
+        padding: 23px 25px 20px 15px;
+    }
+    .Contact .form form {
+        margin-top: 5px;
+    }
+    header img {
+        background: #fff;
+        padding: 9px 17px;
+        border-radius: 5px;
+        width: 110px;
+    }
+}
