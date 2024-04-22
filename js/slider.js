@@ -32,7 +32,7 @@ $('#owl-carousel-2').owlCarousel({
 })
 $('#owl-carousel-3').owlCarousel({
     loop: true,
-    margin: 35,
+    margin: 25,
     nav: true,
     responsive: {
         0: {
